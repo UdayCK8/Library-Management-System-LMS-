@@ -3,6 +3,7 @@
 
  Built using HTML, CSS, PHP, and MySQL, the project focuses on database connectivity, user authentication, and an intuitive interface for smooth navigation and record management.
 
+
 🔹 Key Features:
 
 User login and role-based access (Admin/User)
