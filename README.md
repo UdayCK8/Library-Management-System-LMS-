@@ -3,6 +3,9 @@
 
  Built using HTML, CSS, PHP, and MySQL, the project focuses on database connectivity, user authentication, and an intuitive interface for smooth navigation and record management.
 
+ outlook the project:
+ link: http://localhost/LMS/index.php
+
 
 🔹 Key Features:
 
